@@ -5,8 +5,8 @@ import (
 
 	"go/types"
 
-	"github.com/go-interpreter/ssainterp"
-	"github.com/go-interpreter/ssainterp/interp"
+	"github.com/pitust/ssainterp"
+	"github.com/pitust/ssainterp/interp"
 
 	orig "golang.org/x/tools/go/ssa/interp"
 )

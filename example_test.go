@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/go-interpreter/ssainterp"
+	"github.com/pitust/ssainterp"
 )
 
 const code = `

@@ -7,10 +7,10 @@ package ssainterp
 
 import (
 	"fmt"
-	"github.com/go-interpreter/ssainterp/interp"
 	"go/build"
 	"io"
-	//"./interp"
+
+	"github.com/pitust/ssainterp/interp"
 
 	"go/types"
 

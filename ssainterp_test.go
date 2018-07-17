@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/go-interpreter/ssainterp"
-	"github.com/go-interpreter/ssainterp/interp"
+	"github.com/pitust/ssainterp"
+	"github.com/pitust/ssainterp/interp"
 )
 
 func TestOutputCapture(t *testing.T) {
